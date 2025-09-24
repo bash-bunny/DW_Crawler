@@ -7,9 +7,10 @@ The script demonstrates crawling capabilities over Tor for research purposes.
 ## Dependencies
 
 It needs the following packages for your Linux distribution:
-- `proxychains4`
+- `proxychains4` configured with the TOR proxy (`127.0.0.1:9050`)
 - `perl`
 - `lynx`
+- `tor` service installed and running on the machine
 
 ## Installation
 
