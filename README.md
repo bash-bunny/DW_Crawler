@@ -1,6 +1,8 @@
-# Dark Web Crawler
+# Dark Web Crawler (Research PoC)
 
-Personal crawler for the Dark Web, it crawl `onion` domains and store them in the `seen` file.
+**WARNING**: This is a proof-of-concept for research only.
+
+The script demonstrates crawling capabilities over Tor for research purposes.
 
 ## Dependencies
 
